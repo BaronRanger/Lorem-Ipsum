@@ -37,9 +37,9 @@ text-shadow: #000 1px 1px 3px;}
 .text6 , .text6 a , .text6 a:hover{font-size:10pt; color:#fff; -moz-text-shadow: #000 1px 1px 0px;font-weight:bold;
 -webkit-text-shadow: #000 1px 1px 0px;
 text-shadow: #000 1px 1px 0px;}
-.text6 a:hover{color:#000; -moz-text-shadow: #b55949 1px 1px 0px;
--webkit-text-shadow: #b55949 1px 1px 0px;
-text-shadow: #b55949 1px 1px 0px;}
+.text6 a:hover{color:#000; -moz-text-shadow: #1D2A37 1px 1px 0px;
+-webkit-text-shadow: #1D2A37 1px 1px 0px;
+text-shadow: #1D2A37 1px 1px 0px;}
 
 .text7{font-size:8pt; color:#d1d1d1;}
 .text7 a{font-size:8pt; color:#d1d1d1;}
