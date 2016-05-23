@@ -12,7 +12,7 @@ transition:all 0.7s;}
 text-shadow: #000 1px 1px 3px;}
 .des{font-size:10pt; color:#afafaf; font-weight:bold}
 
-.text1 , .text1 a{font-size:8pt; color:#b49894; text-decoration:none;-moz-text-shadow: #000 1px 1px 0px;
+.text1 , .text1 a{font-size:8pt; color:#ecf0f1; text-decoration:none;-moz-text-shadow: #000 1px 1px 0px;
 -webkit-text-shadow: #000 1px 1px 0px;
 text-shadow: #000 1px 1px 0px;}
 .text1 a:hover{font-size:8pt; color:#fff; text-decoration:none; -moz-text-shadow: #000 1px 1px 3px;
